@@ -8,9 +8,8 @@ const About = () => {
     >
       <h2 className="text-4xl font-bold text-cyan-400 mb-6">About Me</h2>
       <p className="max-w-2xl text-center text-gray-400 leading-relaxed">
-        I’m a frontend developer skilled in React, JavaScript, Tailwind CSS & Bootstrap.
-        I love creating modern, responsive, and futuristic web interfaces that deliver
-        a great user experience.
+        I’m Sachin Mittal, a passionate Frontend Developer who loves building futuristic and visually engaging digital experiences.
+        Using React, JavaScript, Tailwind CSS, and Bootstrap, I transform ideas into clean, fast, and responsive interfaces that users enjoy interacting with.
       </p>
     </section>
   )

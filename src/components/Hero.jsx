@@ -10,25 +10,25 @@ const Hero = () => {
       className="h-screen py-16 px-6 sm:px-10 md:px-20 flex flex-col justify-center items-center text-center bg-linear-to-br from-gray-900 via-gray-800 to-black text-white relative overflow-hidden"
     >
       <div className='absolute inset-0 bg-[radial-gradient(ellipse_at_center,rgba(0,255,255,0.1),transparent)] animate-pulse pointer-events-none'></div>
-     
-
-        <h1 className='text-4xl sm:text-5xl md:text-7xl font-extrabold text-centermb-4 drop-shadow-lg'>
-          Hi, I'm{' '}
-          <span className='text-cyan-400'>
-            <Typewriter
-              words={['Vansh Khalasi', 'a Frontend Dev']}
-              loop={0}        // 0 = infinite loop
-              cursor
-              cursorStyle='|'
-              typeSpeed={70}
-              deleteSpeed={50}
-              delaySpeed={1000}
-            />
-          </span>
-        </h1>
 
 
-    
+      <h1 className='text-4xl sm:text-5xl md:text-7xl font-extrabold text-centermb-4 drop-shadow-lg'>
+        Hi, I'm{' '}
+        <span className='text-cyan-400'>
+          <Typewriter
+            words={['Sachin Mittal', 'a Frontend Dev', 'a Web Developer', 'a Backend Developer']}
+            loop={0}        // 0 = infinite loop
+            cursor
+            cursorStyle='|'
+            typeSpeed={70}
+            deleteSpeed={50}
+            delaySpeed={1000}
+          />
+        </span>
+      </h1>
+
+
+
 
 
       <p className='text-base sm:text-lg md:text-2xl text-gray-300 max-w-md sm:max-w-xl text-center px-4'>

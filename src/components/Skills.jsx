@@ -1,7 +1,7 @@
 import React from 'react'
 
 const Skills = () => {
-   const skills = ["React", "JavaScript", "Tailwind CSS", "Bootstrap", "HTML5", "CSS3"];
+  const skills = ["C", "C++", "HTML5", "CSS3", "JavaScript", "Tailwind CSS", "Bootstrap", "React", "Nodejs", "Express", "MySQL", "MongoDB"];
   return (
     <section id="skills" className="bg-slate-900  text-gray-100 py-16 px-6 sm:px-10 md:px-20">
       <h2 className="text-center text-4xl font-bold text-cyan-400 mb-10">Skills</h2>
